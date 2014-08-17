@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnyDayViewPager</string>
+
+    <string name="date_format">yyyy-MM-dd</string>
+</resources>
